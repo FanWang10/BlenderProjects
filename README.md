@@ -12,3 +12,5 @@ A simulation using the quick smoke
 
 # Cloth Simulation
 Cloth interact with bowl
+![Alt Text](https://github.com/FanWang10/BlenderSimulationProjects/blob/main/Cloth.gif)  
+![Alt Text](https://github.com/FanWang10/BlenderSimulationProjects/blob/main/Cloth2.gif)
